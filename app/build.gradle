@@ -12,7 +12,7 @@ android {
     compileSdkVersion 25
     buildToolsVersion "26.0.2"
     defaultConfig {
-        applicationId "com.example.klocusoutlookcom.wirtualnauczelnia"
+        applicationId "com.cdv.wirtualnauczelnia"
         minSdkVersion 19
         targetSdkVersion 25
         versionCode 1

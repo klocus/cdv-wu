@@ -1,4 +1,4 @@
-package com.example.klocusoutlookcom.wirtualnauczelnia;
+package com.cdv.wirtualnauczelnia;
 
 import org.junit.Test;
 
